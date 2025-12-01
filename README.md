@@ -15,5 +15,5 @@ Hi, I'm Yuesen Liao, you can call me Leo as well. I'm studying in [School of Dat
 - 👀 I’m interested in research areas about Machine Learning, Efficient AI, and Computational Mathmetic.
 - 🎱 I love reading (Haruki Murakami), music (Eason Chan), and Japanese anime (*K-On!*). 
 - 📫 How to reach me: ysliao24@m.fudan.edu.cn
-- 🐼 You can find: [Leo Yorkson's CV](https://github.com/LeoYorkson/LeoYorkson/blob/main/Leo-CV.pdf)
+
 
